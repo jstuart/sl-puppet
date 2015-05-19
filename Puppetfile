@@ -1,7 +1,7 @@
 forge 'forge.puppetlabs.com'
 
 # Forge Modules
-mod 'camptocamp/puppet-accounts'
+mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
 mod 'nvogel/ansible'
 mod 'puppetlabs/concat'
