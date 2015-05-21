@@ -4,7 +4,6 @@ forge 'forge.puppetlabs.com'
 mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
 mod 'evenup/yum'
-mod 'jfryman/nginx'
 mod 'nvogel/ansible'
 mod 'puppetlabs/apache'
 mod 'puppetlabs/concat'
@@ -26,3 +25,6 @@ mod 'thias/sysctl'
 # Git Modules
 mod 'epel',
   :git => 'git@github.com:jstuart/puppet-epel.git'
+  
+mod 'nginx'
+  :git => 'git@github.com:jfryman/puppet-nginx.git'
