@@ -26,5 +26,5 @@ mod 'thias/sysctl'
 mod 'epel',
   :git => 'git@github.com:jstuart/puppet-epel.git'
   
-mod 'nginx'
+mod 'nginx',
   :git => 'git@github.com:jfryman/puppet-nginx.git'
