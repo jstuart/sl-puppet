@@ -3,6 +3,8 @@ forge 'forge.puppetlabs.com'
 # Forge Modules
 mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
+mod 'evenup/yum'
+mod 'jfryman/nginx'
 mod 'nvogel/ansible'
 mod 'puppetlabs/apache'
 mod 'puppetlabs/concat'
