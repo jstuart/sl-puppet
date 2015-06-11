@@ -25,3 +25,7 @@ mod 'thias/sysctl'
 # Git Modules
 mod 'epel',
   :git => 'git@github.com:jstuart/puppet-epel.git'
+
+mod 'iop',
+  :git => 'git@github.com:jstuart/puppet-iop.git'
+  
