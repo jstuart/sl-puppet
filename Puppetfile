@@ -1,6 +1,7 @@
 forge 'forge.puppetlabs.com'
 
 # Forge Modules
+mod 'arnoudj/sudo'
 mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
 mod 'evenup/yum'
@@ -21,7 +22,6 @@ mod 'saz/resolv_conf'
 mod 'spiette/selinux'
 mod 'theforeman/concat_native'
 mod 'theforeman/puppet'
-mod 'thias/sudo'
 mod 'thias/sysctl'
 
 # Git Modules
