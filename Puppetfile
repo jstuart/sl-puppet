@@ -1,7 +1,6 @@
 forge 'forge.puppetlabs.com'
 
 # Forge Modules
-mod 'arnoudj/sudo'
 mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
 mod 'evenup/yum'
@@ -31,3 +30,5 @@ mod 'epel',
 mod 'iop',
   :git => 'git@github.com:jstuart/puppet-iop.git'
   
+mod 'sudo',
+  :git => 'git@github.com:jstuart/puppet-sudo.git'
