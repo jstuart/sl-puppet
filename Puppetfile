@@ -18,10 +18,10 @@ mod 'puppetlabs/reboot'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/vcsrepo'
 mod 'saz/resolv_conf'
-mod 'saz/sudo'
 mod 'spiette/selinux'
 mod 'theforeman/concat_native'
 mod 'theforeman/puppet'
+mod 'thias/sudo'
 mod 'thias/sysctl'
 
 # Git Modules
