@@ -32,3 +32,6 @@ mod 'iop',
   
 mod 'sudo',
   :git => 'git@github.com:jstuart/puppet-sudo.git'
+
+mod 'bigmatch',
+  :git => 'git@github.com:jstuart/puppet-bigmatch.git'
