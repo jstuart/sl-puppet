@@ -5,7 +5,6 @@ mod 'camptocamp/accounts'
 mod 'domcleal/foreman_data_binding'
 mod 'evenup/yum'
 mod 'ghoneycutt/hosts'
-mod 'nvogel/ansible'
 mod 'puppetlabs/apache'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/firewall'
@@ -24,6 +23,9 @@ mod 'theforeman/puppet'
 mod 'thias/sysctl'
 
 # Git Modules
+mod 'ansible',
+  :git => 'git@github.com:jstuart/puppet-ansible.git'
+
 mod 'epel',
   :git => 'git@github.com:jstuart/puppet-epel.git'
 
