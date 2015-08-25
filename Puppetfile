@@ -25,6 +25,7 @@ mod 'thias/sysctl'
 # Git Modules
 mod 'ansible',
   :git => 'git@github.com:jstuart/puppet-ansible.git'
+  :ref => 'fixed-uid'
 
 mod 'epel',
   :git => 'git@github.com:jstuart/puppet-epel.git'
