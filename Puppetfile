@@ -30,7 +30,7 @@ mod 'epel',
   :ref => 'master'
 
 mod 'firewall',
-  :git => 'https://github.com/puppetlabs/puppetlabs-firewall.git'
+  :git => 'https://github.com/puppetlabs/puppetlabs-firewall.git',
   :tag => '1.7.1'
 
 mod 'foreman_data_binding',
